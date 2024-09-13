@@ -1,0 +1,1 @@
+Este projeto consiste na recriação da interface principal da página de login do Facebook usando apenas HTML e CSS. O objetivo foi praticar habilidades de front-end, focando no layout responsivo e na reprodução fiel do design original.
